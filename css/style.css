@@ -59,21 +59,21 @@ hr {
 
 .cloud-top {
   position: absolute;
-  top: 3.125rem;
+  top: 2.25rem;
   right: 18.75rem;
-  width: 11%;
+  width: 11.5%;
 }
 
 .cloud-bottom {
   position: absolute;
-  left: 18.75rem;
-  bottom: 18.75rem;
-  width: 11%;
+  left: 16.5rem;
+  bottom: 22.75rem;
+  width: 11.5%;
 }
 
 .mountain {
   margin-bottom: 1.25rem;
-  width: 55%;
+  width: 50%;
 }
 
 .ilmi {
