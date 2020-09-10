@@ -3,7 +3,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
-  font-size: 1.1em;
+  font-size: 1.1rem;
 }
 
 h1 {
@@ -27,7 +27,7 @@ p {
 }
 
 a {
-  margin: 0 4px ;
+  margin: 0 4px;
 }
 
 hr {
@@ -59,18 +59,19 @@ hr {
 
 .cloud-top {
   position: absolute;
-  top: 50px;
-  right: 300px;
+  top: 3.125rem;
+  right: 18.75rem;
 }
 
 .cloud-bottom {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 18.75rem;
+  bottom: 18.75rem;
 }
 
 .mountain {
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
+  width: 50%;
 }
 
 .ilmi {
